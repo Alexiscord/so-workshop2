@@ -1,12 +1,12 @@
 # Taller 2
 
-**Nombre:** student_name  
-**Código:** student_id  
-**Github URL:** github_fork_url
+**Nombre:** Joan Alexis Córdoba Narváez  
+**Código:** A00232548  
+**Github URL:** https://github.com/Alexiscord/so-workshop2/
 
 ## Descripción
 
-Corta descripción de lo realizado en el taller
+En esta oportunidad mostraré en una diapositiva algunas imágenes que describen, en mi opinión, los momentos más importantes de los sistemas operativos.
 
 ## Referencias
 
