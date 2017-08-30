@@ -4,7 +4,7 @@
 **Estudiante:** Joan Alexís Córdoba Narváez.  
 **Código:** A00232548.  
 **Correo:** alexiscord@hotmail.com  
-**Github URL:** https://github.com/Alexiscord/so-workshop2/tree/A00232548/add-solutions
+**Github URL:** https://github.com/Alexiscord/so-workshop2/
 
 
 ### Descripción
